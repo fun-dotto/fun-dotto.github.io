@@ -13,6 +13,7 @@
 - [お問い合わせ](/contact)
 - [利用規約](/terms-of-service)
 - [プライバシーポリシー](/privacy-policy)
+- [リリースノート](/releases)
 
 ---
 
