@@ -19,4 +19,10 @@
 
 - [HOPE 拡張機能設定](https://dotto.web.app/)
 
+---
+
+- [GitHub](https://github.com/fun-dotto)
+  - [GitHub Project](https://github.com/orgs/fun-dotto/projects/1)
+  - [fun-dotto/dotto](https://github.com/fun-dotto/dotto)
+
 &copy; 2025 Dotto
