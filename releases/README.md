@@ -1,5 +1,7 @@
 # リリースノート
 
+- [v2.0.1](/releases/v2.0.1)
+- [v2.0.0](/releases/v2.0.0)
 - [v1.5.3](/releases/v1.5.3)
 - [v1.5.2](/releases/v1.5.2)
 - [v1.5.1](/releases/v1.5.1)
